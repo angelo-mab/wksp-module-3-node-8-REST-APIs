@@ -1,0 +1,22 @@
+stock{
+ coffee{
+  size
+ }
+  food {
+   pasteries:
+   fruits:
+  }
+}
+
+customer{
+ count
+}
+
+ tables{
+  type:
+  vacancy:
+  seating{
+   seating-capacity
+  }
+ }
+ 
